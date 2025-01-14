@@ -1,0 +1,26 @@
+{
+  "name": "mx.edu.utxj.ti.awi4.practica3",
+  "version": "1.0.0",
+  "description": "Manejo de Sesiones en NodeJS y Express",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/F-Anks/Practica3_230758.git"
+  },
+  "keywords": [],
+  "author": "Francisco Garcia Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F-Anks/Practica3_230758/issues"
+  },
+  "homepage": "https://github.com/F-Anks/Practica3_230758#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "moment-timezone": "^0.5.46"
+  }
+}
